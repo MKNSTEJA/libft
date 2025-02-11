@@ -169,8 +169,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-**42 School:** For providing the opportunity to work on this project.
-**Community:** Thanks to all the peers and mentors who provided feedback and support.
+- **42 School:** For providing the opportunity to work on this project.
+- **Community:** Thanks to all the peers and mentors who provided feedback and support.
 
 ---
 
